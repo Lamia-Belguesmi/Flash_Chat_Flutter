@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "134464435063",
+    "project_id": "flash-caht-5dcf0",
+    "storage_bucket": "flash-caht-5dcf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134464435063:android:53e7968dbb19e76e422772",
+        "android_client_info": {
+          "package_name": "com.BelguesmiLamia.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134464435063-poquuh2dm00kjlut44njqhirq16eq375.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayn9Q0G46cG1Lvdy5XrnSFr4wO8gmoaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134464435063-poquuh2dm00kjlut44njqhirq16eq375.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134464435063:android:c45d27c91a061984422772",
+        "android_client_info": {
+          "package_name": "com.BelguesmiLamia.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134464435063-poquuh2dm00kjlut44njqhirq16eq375.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayn9Q0G46cG1Lvdy5XrnSFr4wO8gmoaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134464435063-poquuh2dm00kjlut44njqhirq16eq375.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
